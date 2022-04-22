@@ -12,4 +12,3 @@ command for kernel to change priority of process
 
 ## Comment
 2022 1학기 운영체제 과제
-# xv6-hw
